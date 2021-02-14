@@ -1,0 +1,19 @@
+# Security precautions:
+
+.env
+
+
+# Editor support files:
+
+_pgbackup/
+pinegrow.json
+
+
+# Python code execution leftovers:
+
+__pycache__/
+
+
+# For developers using MacOS:
+
+.DS_Store
